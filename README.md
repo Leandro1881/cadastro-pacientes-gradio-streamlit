@@ -1,5 +1,7 @@
 # Cadastro de Pacientes — Gradio x Streamlit
 
+**App publicado (Streamlit Community Cloud):** https://cadastro-pacientes-leandro.streamlit.app/
+
 A mesma aplicação de coleta de dados feita duas vezes, para comparar as duas bibliotecas.
 É um cadastro de pacientes para a recepção de um consultório. Campos: nome, idade, convênio, prioridade (1 a 5) e motivo da consulta. Cada envio grava uma linha com data/hora.
 
