@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+# CSV gerado pela versão Streamlit em testes locais
+streamlit_app/pacientes.csv
+.gradio/
